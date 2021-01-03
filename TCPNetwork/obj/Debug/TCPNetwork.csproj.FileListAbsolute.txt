@@ -1,0 +1,6 @@
+C:\UID_Projects\TCPNetwork\TCPNetwork\bin\Debug\TCPNetwork.exe.config
+C:\UID_Projects\TCPNetwork\TCPNetwork\bin\Debug\TCPNetwork.exe
+C:\UID_Projects\TCPNetwork\TCPNetwork\bin\Debug\TCPNetwork.pdb
+C:\UID_Projects\TCPNetwork\TCPNetwork\obj\Debug\TCPNetwork.csprojAssemblyReference.cache
+C:\UID_Projects\TCPNetwork\TCPNetwork\obj\Debug\TCPNetwork.exe
+C:\UID_Projects\TCPNetwork\TCPNetwork\obj\Debug\TCPNetwork.pdb
